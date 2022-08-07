@@ -1,0 +1,20 @@
+body{
+    background-color: hwb(245 37% 35%);
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    background-color: beige;
+}
+
+p{
+    text-align: center;
+}
+
+em{
+    font-size: 25px;
+    color: brown;
+    background-color: azure;
+}
+
