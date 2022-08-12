@@ -1,7 +1,9 @@
 body{
     background-color: hwb(245 37% 35%);
 }
-
+.ninguem {
+    background-color: aliceblue;
+}
 h1{
     text-align: center;
     color: brown;
