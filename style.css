@@ -7,6 +7,10 @@ body{
 .assunto {
     background-color: aquamarine;
 }
+
+ol {
+    display:inline-block;
+}
 h1{
     text-align: center;
     color: brown;
